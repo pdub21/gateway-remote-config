@@ -1,0 +1,17 @@
+{
+	"gateway_conf": {
+	 	"gateway_ID": "B827EBFFFECD0F17",
+		"servers": [ 
+			{ "server_address": "eu1.cloud.thethings.network",
+				"serv_port_up": 1700,
+				"serv_port_down": 1700,
+				"serv_enabled": true 
+			}
+			],
+			"ref_latitude": 47.278806,
+			"ref_longitude": 5.110495,
+			"ref_altitude": 220,
+			"contact_email": "pascal.dub@laposte.net",
+			"description": "RPI TTN Gateway (experimental)" 
+	}
+}
